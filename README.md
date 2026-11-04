@@ -1,5 +1,22 @@
-I made a Key chain of the Choi Kwan do martial art international logo
-<img width="1365" height="767" alt="Screenshot 2026-10-12 1 43 55 PM" src="https://github.com/user-attachments/assets/991948d2-9515-43cd-bf85-bdc8663ca5e7" />
-Add project screenshot
-### Onshape Workspace Link
-[View the live CAD model here]([https://onshape.com...](https://cad.onshape.com/documents/671059cc8aefe40418977c48/w/99851764477fc0ecacf26020/e/4abbfafa0e0227d697d5457b)
+# 🥋 Choi Kwang Do International Logo Keychain
+
+## 🔍 What is this?
+This project is a custom **3D digital CAD model** of a keychain featuring the official logo of **Choi Kwang Do (CKD)** martial arts. It serves as a high-fidelity 3D asset that can be used for digital renderings, design portfolios, or future manufacturing methods.
+
+<img width="1365" height="767" alt="Choi Kwang Do Keychain Screenshot" src="https://github.com" />
+
+## 🎯 Why you built this?
+I created this project to practice advanced 2D-to-3D sketching, geometric constraints, and logo extrusion within a professional cloud-CAD environment. It bridges digital design with martial arts appreciation, providing a clean, multi-layered asset of the Choi Kwang Do emblem.
+
+## 🛠️ Tools you used
+*   **CAD Modeling:** [Onshape](https://onshape.com) — Used for layout, sketching, and exporting precision 3D solids.
+
+---
+
+### 🌐 Onshape Workspace Link
+👉 [View the live CAD model here](https://onshape.com)
+
+### 📁 Repository Guide
+*   📁 **`CAD/`**: Contains the exported precision 3D files (`.step` and `.stl`).
+*   📁 **`Production/`**: Contains `BOM.csv` (Bill of Materials) documenting project metadata or digital item details.
+
