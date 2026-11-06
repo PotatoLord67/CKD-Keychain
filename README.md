@@ -1,7 +1,7 @@
 # Choi Kwang Do International Logo Keychain
 
 ## What is this?
-this model is a custom 3d onshape model of the official Choi Kwan do international logo. it can be 3d printed or manufactured in almost any way.
+this model is a custom 3d onshape model of the official CKD (Choi Kwan do) international logo. it can be manufactured in almost any way including 3d printing in different types of fillement including tpu, and pla. and it can be produced by cnc.
 
 <img src="https://github.com/PotatoLord67/CKD-Keychain/blob/main/Screenshot%202026-10-12%202.43.55%20PM.png?raw=true" alt="Screenshot 2026-10-12 2.43.55 PM.png"/>
 ## why I built this
