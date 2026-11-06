@@ -5,8 +5,8 @@ this model is a custom 3d onshape model of the official Choi Kwan do internation
 
 <img src="https://github.com/PotatoLord67/CKD-Keychain/blob/main/Screenshot%202026-10-12%202.43.55%20PM.png?raw=true" alt="Screenshot 2026-10-12 2.43.55 PM.png"/>
 ## why I built this
-This key chain is a project that I decided to make because I have always wanted a way to show my appreciation for martial arts, specifically CKD( Choi Kwan do). but all the merchendise is so expensive! so I decided to make the key chain myself. and since I LOVE practicing my skills on onshape, this seemed like the perfect project to do.
-
+This CKD(Choi Kwan Do) key chain is a 3d printable on shape project that I decided to make because I have always wanted a way to show my appreciation for martial arts, specifically CKD( Choi Kwan do). but all the merchendise is so dang expensive! So, I decided to make the key chain myself. and since I LOVE practicing my skills on onshape, this seemed like the perfect project to do to both practice my onshape skills and finally have my own Choi Kwan Do Keychain( that is less expensive than if I bought one from the official Merchandise website page), and I can tell anyone 
+that ask, that I made it myself!
 ## Tools I used
 *   **CAD Modeling:** [Onshape](https://onshape.com) — Used for layout, sketching, and exporting precision 3D solids.
 
